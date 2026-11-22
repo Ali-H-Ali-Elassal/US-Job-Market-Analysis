@@ -27,6 +27,25 @@ This project analyzes U.S. employment and annual wage data to understand job mar
 - Home Health and Personal Care Aides represented approximately 4.3 million jobs.
 - Employment levels and annual wages vary significantly across occupations.
 
+# Business Insights & Recommendations
+
+### Business Problem
+Students, job seekers, and workforce planners need reliable information to compare career opportunities based on employment levels and wages.
+
+### What the Data Shows
+- The dataset includes 767 U.S. occupational records.
+- Pediatric Surgeons had an annual median wage of $559,030 in the analyzed data.
+- Home Health and Personal Care Aides represented approximately 4.3 million jobs.
+- Occupations with high employment levels are not necessarily the highest-paying occupations.
+
+### Business Recommendations
+1. **For job seekers:** Compare both salary and employment levels when researching career opportunities.
+2. **For educational institutions:** Use occupational employment and wage trends to help students explore career paths.
+3. **For workforce planners:** Investigate occupations with large employment levels to identify areas where training programs may be valuable.
+
+### Limitations
+Employment and wage figures alone do not show future job growth, available vacancies, education requirements, or regional differences. Additional data would be needed before making specific hiring or career recommendations.
+
 ## Dashboard
 [View Interactive Tableau Dashboard](https://public.tableau.com/views/U_S_JobMarketAnalysis/Dashboard1)
 
